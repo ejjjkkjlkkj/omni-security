@@ -67,9 +67,9 @@
       "kind": "misp-cluster",
       "layer": "surface_web",
       "mode": "automatic",
-      "records": 2135,
+      "records": 2179,
       "required": true,
-      "sha256": "1dd60b6910a73d4614b29fee4d5878d8804c41d531bbe5b9f1500e1ea6692b90",
+      "sha256": "5bb087baaef2f595a632f40667e8a3ad0199cb1a542ea2d82a31ad1382bdaa71",
       "url": "https://raw.githubusercontent.com/MISP/misp-galaxy/main/clusters/ransomware.json"
     },
     {
@@ -127,9 +127,9 @@
       "kind": "cisa-kev",
       "layer": "surface_web",
       "mode": "automatic",
-      "records": 1729,
+      "records": 1730,
       "required": true,
-      "sha256": "62c798bffe1334f5ad43853a7ee9d6eb6969e5b98b6755a6e1c901a1b1ae8f5c",
+      "sha256": "41a998d171e4b29a27c254d840737431429bccee581a9c84c79c355ea3ad9ce1",
       "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
     },
     {
