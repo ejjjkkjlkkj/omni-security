@@ -37,9 +37,9 @@
       "kind": "misp-cluster",
       "layer": "surface_web",
       "mode": "automatic",
-      "records": 1056,
+      "records": 1057,
       "required": true,
-      "sha256": "9caebf1f7b9680ba0f1c6a0b0c18e5d250acc74fe2bdc9b127a54dc1759cba6f",
+      "sha256": "3ee3e5fbb8ab5d3b5bf1cd890f3de34114852a41ffc278304a86c2cbd71bfb02",
       "url": "https://raw.githubusercontent.com/MISP/misp-galaxy/main/clusters/threat-actor.json"
     },
     {
@@ -47,9 +47,9 @@
       "kind": "misp-cluster",
       "layer": "surface_web",
       "mode": "automatic",
-      "records": 620,
+      "records": 623,
       "required": true,
-      "sha256": "15b4c8a81a21197c8a314aa88492c40fa66f6d631457c257052213de67b5a643",
+      "sha256": "b14147bd770b0d0d0dcf67d5b3e81b3e62bc876c8fd415a6391085bcd8625cab",
       "url": "https://raw.githubusercontent.com/MISP/misp-galaxy/main/clusters/tool.json"
     },
     {
@@ -87,9 +87,9 @@
       "kind": "misp-cluster",
       "layer": "surface_web",
       "mode": "automatic",
-      "records": 53,
+      "records": 54,
       "required": true,
-      "sha256": "38b3fe7f566dda80a41175f74a28184bc9c4db1d579e23299d3c8a5075026606",
+      "sha256": "9c12a13195ccbd426c83bd04590d41260534c87677a01b04ea4ea44e8144b88a",
       "url": "https://raw.githubusercontent.com/MISP/misp-galaxy/main/clusters/exploit-kit.json"
     },
     {
@@ -127,9 +127,9 @@
       "kind": "cisa-kev",
       "layer": "surface_web",
       "mode": "automatic",
-      "records": 1730,
+      "records": 1731,
       "required": true,
-      "sha256": "41a998d171e4b29a27c254d840737431429bccee581a9c84c79c355ea3ad9ce1",
+      "sha256": "4e47d6936857ccf0994d2abe1d77d7421bf14e45ff908cc0d8973fe7adc35140",
       "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
     },
     {
