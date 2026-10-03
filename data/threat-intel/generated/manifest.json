@@ -127,9 +127,9 @@
       "kind": "cisa-kev",
       "layer": "surface_web",
       "mode": "automatic",
-      "records": 1731,
+      "records": 1733,
       "required": true,
-      "sha256": "4e47d6936857ccf0994d2abe1d77d7421bf14e45ff908cc0d8973fe7adc35140",
+      "sha256": "d2c8c6cb23291b46ff2b086197641a6b1fa35e6b746bba714cc280a1778f9e48",
       "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
     },
     {
